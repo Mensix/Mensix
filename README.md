@@ -1,5 +1,3 @@
 # Welcome!
 
-My name is Grzegorz, and I'm an aspiring frontend developer from Poland. I don't have many projects here, as I think some of them are not worth publishing, however, I'm looking forward to making awesome stuff in the future. My work is focused on ski jumping and [JBwA community](https://www.miejski.pl/slowo-Jebawka).
-
-You can find my summary on my [website](https://mensix.xyz/).
+My name is Grzegorz. I am frontend developer based in Poland. I am currently working as a Frontend Developer at [mTap Smart City](mtapsmartcity.com), meanwhile I am a proud Computer Science student at [Warsaw University of Life Sciences](https://wzim.sggw.edu.pl) where I gain more and more knowledge. Besides that, I have been working on such widespreadly mentioned projects as [dsj24](https://dsj24.pl) and [Bazarek Wyborczy](https://bazarekwyborczy.pl). Here I publish some of my projects I considered to be worth uploading, therefore feel free to look at them!
