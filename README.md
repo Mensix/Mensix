@@ -3,7 +3,7 @@
 Feeling a bit too lazy to write README by myself, so...
 
 ```<ChatGPT>```
-Hello there! I'm Grzegorz, a 21-year-old frontend developer from Poland. Currently, I hold a Frontend Developer position primarily at TechOcean, but I also contribute to projects at mTap Smart City. Additionally, I am a Computer Science student at Warsaw University of Life Sciences, where I have gained many important IT and math skills. Since November 2023, I have held the vice-chairman position at Silver.NET scientific circle, which includes top programming students. In this role, I conduct lectures for interested students and manage current affairs.
+Hello there! I'm Grzegorz, a 21-year-old frontend developer from Poland. Currently, I hold a JavaScript Developer position at BillTech. Additionally, I am a Computer Science student at Warsaw University of Life Sciences, where I have gained many important IT and math skills. Since November 2023, I have held the vice-chairman position at Silver.NET scientific circle, which includes top programming students. In this role, I conduct lectures for interested students and manage current affairs.
 
 My primary skills include Nuxt, Vue, TailwindCSS, and to a lesser extent, C#.
 
